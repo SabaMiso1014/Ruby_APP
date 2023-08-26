@@ -1,2 +1,0 @@
-class InflowSource < ApplicationRecord
-end

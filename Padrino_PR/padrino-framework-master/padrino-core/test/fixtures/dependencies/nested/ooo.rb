@@ -1,2 +1,0 @@
-class OOO < RRR
-end
