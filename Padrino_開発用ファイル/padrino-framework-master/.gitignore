@@ -1,0 +1,10 @@
+Gemfile.lock
+.bundle
+.rvmrc
+.yardoc
+*.rbc
+.rbx/
+doc/
+.DS_Store
+tags
+padrino-*/pkg/
